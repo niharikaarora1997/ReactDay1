@@ -1,4 +1,5 @@
 // const list = document.createElement('ul');
+// list.setAttribute("id","checklist")
 // const list_item1 = document.createElement('li');
 // list_item1.innerHTML = 'SPW:123';
 // const list_item2 = document.createElement('li');
