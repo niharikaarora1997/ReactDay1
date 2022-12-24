@@ -9,6 +9,7 @@
 // list.appendChild(list_item1);
 // list.appendChild(list_item2);
 // list.appendChild(list_item3);
+// list.append(list_item1,list_item2,list_item3);
 // const root = document.getElementById('root');
 // root.appendChild(list);
 
